@@ -1,0 +1,41 @@
+Data Structures
+Computer Architecture and Operating Systems
+Logics for Computer Science
+Math
+Introduction to Programming
+English Language I
+Competitive Programming
+Object Oriented Programming
+Operating Systems
+Algebraic Foundations of Computer Science
+Probabilities and Statistics
+Algorithms Design
+English Language II
+Computer Networks
+Database Systems
+Formal Languages, Automata and Compilers
+Graph Algorithms
+Computability, Decidability and Complexity
+Principles of Programming Languages
+Genetic Algorithms
+Quantum Computing
+WEB Technologies
+Advanced Programming
+Software Engineering
+DBMS Practice
+Functional Programming
+Introduction to Cryptography
+Embedded Systems
+Machine Learning
+Information Security
+Artificial Intelligence
+Introduction to .NET
+Python Programming
+Neural Networks
+Physical Systems Development Using Microprocessors
+3D Computer Animation
+Probabilistic Programming and Modeling
+Introduction to Mixed Realities
+Special Chapters in Operating Systems
+Multiprocessor Programming Techniques
+
